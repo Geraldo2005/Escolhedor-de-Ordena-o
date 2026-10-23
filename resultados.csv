@@ -1,0 +1,29 @@
+cenario,metodo,tamanho,tempo_mediano_ms,repeticoes,tempo_selecao_ms,tempo_ordenacao_ms,metodo_escolhido,status
+Aleatório com chaves grandes,Inserção,2000,58.936500000072556,10,,,,Executado
+Aleatório com chaves grandes,Intercalação,2000,2.5845999994089652,10,,,,Executado
+Aleatório com chaves grandes,Quick Sort aleatório,2000,2.472499999385036,10,,,,Executado
+Aleatório com chaves grandes,Híbrida,2000,2.1457499997268314,10,,,,Executado
+Aleatório com chaves grandes,Contagem,2000,,0,,,,Ignorado: faixa excessiva
+Aleatório com chaves grandes,Radix Sort,2000,2.4508999999852676,10,,,,Executado
+Aleatório com chaves grandes,Seletor inteligente,2000,2.2314500006359594,10,0.11630000017248676,2.0992500003558234,Híbrida,Executado
+Faixa estreita,Inserção,2000,55.333949999749166,10,,,,Executado
+Faixa estreita,Intercalação,2000,2.654949999850942,10,,,,Executado
+Faixa estreita,Quick Sort aleatório,2000,1.3136500001564855,10,,,,Executado
+Faixa estreita,Híbrida,2000,1.378850000037346,10,,,,Executado
+Faixa estreita,Contagem,2000,0.20764999999300926,10,,,,Executado
+Faixa estreita,Radix Sort,2000,0.8479500002067653,10,,,,Executado
+Faixa estreita,Seletor inteligente,2000,0.32535000036659767,10,0.13870000020688167,0.18739999995887047,Contagem,Executado
+Quase ordenado,Inserção,2000,1.0003500001403154,10,,,,Executado
+Quase ordenado,Intercalação,2000,2.0672499999818683,10,,,,Executado
+Quase ordenado,Quick Sort aleatório,2000,2.4784500001260312,10,,,,Executado
+Quase ordenado,Híbrida,2000,2.0571000000018103,10,,,,Executado
+Quase ordenado,Contagem,2000,0.307150000026013,10,,,,Executado
+Quase ordenado,Radix Sort,2000,1.059999999597494,10,,,,Executado
+Quase ordenado,Seletor inteligente,2000,0.4192500000499422,10,0.10209999982180307,0.3164499999002146,Contagem,Executado
+Lista minúscula,Inserção,20,0.007500000265281415,10,,,,Executado
+Lista minúscula,Intercalação,20,0.01339999971605721,10,,,,Executado
+Lista minúscula,Quick Sort aleatório,20,0.009949999821401434,10,,,,Executado
+Lista minúscula,Híbrida,20,0.006499999926745659,10,,,,Executado
+Lista minúscula,Contagem,20,0.12124999966545147,10,,,,Executado
+Lista minúscula,Radix Sort,20,0.014399999599845614,10,,,,Executado
+Lista minúscula,Seletor inteligente,20,0.008450000223092502,10,0.0015999999050109182,0.006600000233447645,Inserção,Executado
